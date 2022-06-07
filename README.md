@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Valentin</h1>
 <h3 align="center">A passionate junior FullStack Developer from Argentina</h3>
+<h4>Como desarrollador Full Stack tengo experiencia en el uso de JavaScript, Nodejs, React & Redux, PostgreSQL, Express, HTML y CSS. Me estoy enfocando en reunir experiencia y conocimiento en el desarrollo Front-end.
 
+Me considero un profesional orientado a la resolución de problemas y al cliente.
+
+Si está interesado en contactar conmigo, no dude en hacerlo. Vea "Conéctese conmigo" más abajo.</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/valentin-benitez-05a210239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/valentin-benitez-05a210239/" height="30" width="40" /></a>
