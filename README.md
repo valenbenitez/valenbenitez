@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Valentin</h1>
+<h1 align="center">Hi 👋 I'm Valentin</h1>
 <h3 align="center">Typescript Frontend Engineer | Fintech Specialist</h3>
 <h3>Soy desarrollador frontend trabajando con tecnologías como Typescript, AWS, NextJs, NestJs y otras herramientas usadas en la industria fintech.
 
