@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Valentin</h1>
-<h3 align="center">A passionate full stack developer</h3>
-<h3>Full stack web developer. I consider myself an autonomous person, with excellent teamwork and looking to be constantly learning. I am passionate about developing tools to facilitate any type of work so that it can be more efficient and effective.</h3>
+<h3 align="center">Typescript Frontend Engineer | Fintech Specialist</h3>
+<h3>Soy desarrollador frontend trabajando con tecnologías como Typescript, AWS, NextJs, NestJs y otras herramientas usadas en la industria fintech.
+
+Estoy interesado en industrias crypto, fintech o de salud.
+
+Puedes contactarme por email, benitezvalentin046@gmail.com, para oportunidades.</h3>
 
 - 🔭 I’m currently working on **Beetransfer**
 
@@ -10,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/valentin-benitez-05a210239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/valentin-benitez-05a210239/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/valentin-benitez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/valentin-benitez-05a210239/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
