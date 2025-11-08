@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 I'm Valentin</h1>
 <h3 align="center">Typescript Frontend Engineer | Fintech Specialist</h3>
-<h3>Soy desarrollador frontend trabajando con tecnologías como Typescript, AWS, NextJs, NestJs y otras herramientas usadas en la industria fintech.
+<h3>I have more of 3 years working in startups, specifically in fintech. Currently working with technologies like NextJS, NestJS, Typescript, AWS.
 
-Estoy interesado en industrias crypto, fintech o de salud.
+I'm interested in industries like crypto, fintech or healthy.
 
-Puedes contactarme por email, benitezvalentin046@gmail.com, para oportunidades.</h3>
+You can reach me by email, benitezvalentin046@gmail.com, for opportunities.</h3>
 
 - 🔭 I’m currently working on **Beetransfer**
 
